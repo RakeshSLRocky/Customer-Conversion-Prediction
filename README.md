@@ -14,21 +14,21 @@ https://drive.google.com/file/d/1BJ_Q8Q-kDRisAQyLltBQggeb0QmdWGZy/view?usp=shari
 
 age (numeric)
 
-job : type of job
+job : type of job (Object)
 
-marital : marital status
+marital : marital status (Object)
 
-educational_qual : education status
+educational_qual : education status (Object)
 
-call_type : contact communication type
+call_type : contact communication type (Object)
 
 day: last contact day of the month (numeric)
 
-mon: last contact month of year
+mon: last contact month of year (Object)
 
 dur: last contact duration, in seconds (numeric)
 
-num_calls: number of contacts performed during this campaign and for this client 
+num_calls: number of contacts performed during this campaign and for this client (Object) 
 
 prev_outcome: outcome of the previous marketing campaign (categorical: "unknown","other","failure","success")
 
